@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables file
+.env
+.venv/
+env/
+venv/
+
+# macOS and Linux files
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Virtual environment
+*.venv
+
+# Log files
+*.log
+
+# Project specific ignores
+# Ignore generated results, temporary files, or cache directories
+results/
+cache/
+*.tmp
+*.out
+*.csv
+
+# Unit test / coverage reports
+*.coverage
+htmlcov/
+.tox/
+.nox/
+*.pytest_cache/
+.coverage.*
+
+# Python debugger logs
+*.pdb
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
